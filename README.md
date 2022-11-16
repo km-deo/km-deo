@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning creating new repo
 - 💞️ I’m looking to collaborate on github
 - 📫 reach me at my email
+- now adding a change to this newly created branch or feature
 
 <!---
 km-deo/km-deo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
